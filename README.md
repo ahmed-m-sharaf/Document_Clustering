@@ -1,17 +1,4 @@
----
-title: Document Clustering
-emoji: 🚀
-colorFrom: red
-colorTo: red
-sdk: docker
-app_port: 8501
-tags:
-- streamlit
-pinned: false
-short_description: Streamlit template space
----
-
-# 🧩 Semantic Document Clustering Hub
+# 🧩 Semantic Document Clustering
 
 An end-to-end unsupervised NLP application that performs real-time semantic document clustering using **TF-IDF Vectorization** and **K-Means Clustering**. The project features a dual-service architecture with a **FastAPI** backend API and a premium **Streamlit** frontend dashboard. It is fully containerized using **Docker** and pre-configured for direct deployment as a **Hugging Face Space**.
 
